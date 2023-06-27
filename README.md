@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasonjin220)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10649618)
 [![Github Badge](https://img.shields.io/badge/-Github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jasonjin220/)](https://www.github.com/jasonjin220/)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://jasonjin.netlify.app/)](https://jasonjin.netlify.app/)
+[![Portfolio Badge](https://img.shields.io/badge/🌐_%20_Portfolio-%23663399)](https://jasonjin.netlify.app)
 
 ## Languages and tools:
 
