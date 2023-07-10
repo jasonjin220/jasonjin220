@@ -1,17 +1,20 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Jason Jin</h1>
-<h3 align="center">A passionate full stack developer 👨‍💻 working remotely since 2018 🚀</h3>
-<p align='center'> You can view my resume <a href='https://jasonjin.netlify.app/resume.pdf ' target=_blank><u>here</u>.</a></p>
 
-<br />
-
-## Connect with me:
+<div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jasonjin220@gmail.com)](mailto:jasonjin220@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasonjin220)
+[![Portfolio Badge](https://img.shields.io/badge/🌐_%20_Portfolio-%23663399)](https://jasonjin.netlify.app)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10649618)
 [![Github Badge](https://img.shields.io/badge/-Github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jasonjin220/)](https://www.github.com/jasonjin220/)
-[![Portfolio Badge](https://img.shields.io/badge/🌐_%20_Portfolio-%23663399)](https://jasonjin.netlify.app)
+
+</div>
+
+<p>I'm a passionate full stack developer with over 10 years of experience specializing in web and mobile application development, data visualizations, performance optimization, and problem-solving.</p>
+You can view my resume <a href='https://jasonjin.netlify.app/resume.pdf ' target=_blank><u>here</u>.</a>
+
+<br />
 
 ## Languages and tools:
 
