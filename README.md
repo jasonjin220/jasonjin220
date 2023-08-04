@@ -24,6 +24,7 @@ You can view my resume <a href='https://jasonjin.netlify.app/resume.pdf ' target
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat&logo=gatsby&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=flat&logo=nuxt.js&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-white?style=flat&logo=d3.js&logoColor=%23FF9900)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
 
