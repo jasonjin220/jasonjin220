@@ -49,6 +49,7 @@ You can view my resume <a href='https://jasonjin.netlify.app/resume.pdf ' target
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![tRPC](https://img.shields.io/badge/-tRPC-398ccb?style=flat&logo=trpc&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
@@ -65,3 +66,5 @@ You can view my resume <a href='https://jasonjin.netlify.app/resume.pdf ' target
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=jasonjin220)
