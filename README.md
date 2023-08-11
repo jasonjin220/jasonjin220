@@ -65,3 +65,7 @@ You can view my resume <a href='https://jasonjin.netlify.app/resume.pdf ' target
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=jasonjin220)
