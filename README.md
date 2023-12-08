@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jasonjin220@gmail.com)](mailto:jasonjin220@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasonjin220)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasonj220)
 [![Portfolio Badge](https://img.shields.io/badge/🌐_%20_Portfolio-%23663399)](https://jasonjin.netlify.app)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10649618)
 [![Github Badge](https://img.shields.io/badge/-Github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jasonjin220/)](https://www.github.com/jasonjin220/)
@@ -66,3 +66,5 @@ You can view my resume <a href='https://jasonjin.netlify.app/resume.pdf ' target
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=jasonjin220)
